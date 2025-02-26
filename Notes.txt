@@ -1,0 +1,6 @@
+Setup:
+Open Google Cloud console 
+Vertex AI > Workbench
+
+
+.jupyterlab-workspace
